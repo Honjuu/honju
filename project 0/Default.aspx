@@ -12,17 +12,17 @@
 <body>
 <ul class="nav nav-pills">
 <li class="nav-item">
-<a class="nav-link active" href="https://honju.bsite.net">Home</a> 
+<a class="nav-link active" href="index.html">Home</a> 
 
- <a class="nav-link active" href="https://honju.bsite.net/project%200/">Project 0</a>
+ <a class="nav-link active" href="project 0">Project 0</a>
 
- <a class="nav-link active" href="https://honju.bsite.net/project%201/">Project 1</a>
+ <a class="nav-link active" href="project 1">Project 1</a>
 
- <a class="nav-link active" href="https://honju.bsite.net/project%202/">Project 2</a>
+ <a class="nav-link active" href="project 2">Project 2</a>
 
- <a class="nav-link active" href="https://honju.bsite.net/JefRaskin/">JefRaskin</a>
+ <a class="nav-link active" href="JefRaskin.html">JefRaskin</a>
 
- <a class="nav-link active" href="https://honju.bsite.net/Handout/">Handout</a>
+ <a class="nav-link active" href="Handout">Handout</a>
 
  <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled </a>
  </li>
