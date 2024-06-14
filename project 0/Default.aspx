@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 
-<link rel="stylesheet" href="https://honju.bsite.net/styles.css">
+<link rel="stylesheet" href="https://honjuu.github.io/honju/styles.css">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
