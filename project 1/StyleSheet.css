@@ -1,0 +1,9 @@
+﻿<script language="C#" runat=server >
+
+protected void Sum(Object sender, EventArgs e ) {
+    int x = Convert.ToInt32(textbox1.Text);
+    int y = Convert.ToInt32(textbox2.Text);
+    lblLabel.Text = (x + y).ToString();
+}
+
+</script >
